@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\bin\Debug\net8.0\HospitalProjekt.exe
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\bin\Debug\net8.0\HospitalProjekt.deps.json
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\bin\Debug\net8.0\HospitalProjekt.runtimeconfig.json
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\bin\Debug\net8.0\HospitalProjekt.dll
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\bin\Debug\net8.0\HospitalProjekt.pdb
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\obj\Debug\net8.0\HospitalProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\obj\Debug\net8.0\HospitalProjekt.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\obj\Debug\net8.0\HospitalProjekt.AssemblyInfo.cs
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\obj\Debug\net8.0\HospitalProjekt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\obj\Debug\net8.0\HospitalProjekt.dll
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\obj\Debug\net8.0\refint\HospitalProjekt.dll
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\obj\Debug\net8.0\HospitalProjekt.pdb
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\obj\Debug\net8.0\HospitalProjekt.genruntimeconfig.cache
+C:\Users\User\source\repos\HospitalProjekt\HospitalProjekt\obj\Debug\net8.0\ref\HospitalProjekt.dll
