@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HotelProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|c:\\users\\user\\source\\repos\\hotelprojekt\\hotelprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|solutionrelative:hotelprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|c:\\users\\user\\source\\repos\\hotelprojekt\\hotelprojekt\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|solutionrelative:hotelprojekt\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|c:\\users\\user\\source\\repos\\hotelprojekt\\hotelprojekt\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|solutionrelative:hotelprojekt\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|c:\\users\\user\\source\\repos\\hotelprojekt\\hotelprojekt\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|solutionrelative:hotelprojekt\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|c:\\users\\user\\source\\repos\\hotelprojekt\\hotelprojekt\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF14ED3-A140-4151-A96B-F4757065A7B9}|HotelProjekt\\HotelProjekt.csproj|solutionrelative:hotelprojekt\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelProjekt\\Reservation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Reservation.cs",
+              "RelativeToolTip": "HotelProjekt\\Reservation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:31:55.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Guest.cs",
+              "RelativeDocumentMoniker": "HotelProjekt\\Guest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Guest.cs",
+              "RelativeToolTip": "HotelProjekt\\Guest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:31:48.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Room.cs",
+              "RelativeDocumentMoniker": "HotelProjekt\\Room.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Room.cs",
+              "RelativeToolTip": "HotelProjekt\\Room.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:31:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelProjekt\\Hotel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Hotel.cs",
+              "RelativeToolTip": "HotelProjekt\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:31:24.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Program.cs",
+              "RelativeDocumentMoniker": "HotelProjekt\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HotelProjekt\\HotelProjekt\\Program.cs",
+              "RelativeToolTip": "HotelProjekt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:31:15.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
